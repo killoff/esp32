@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const SOURCE_URL = "https://api.riel.ua/feeds/vtour_Maxima_3.json";
+const SOURCE_URL = "https://api.riel.ua/feeds/vtour_Maxima.json";
 
 async function main() {
     const response = await fetch(SOURCE_URL);
