@@ -19,8 +19,6 @@ jobs:
         with:
           node-version: 22
 
-      - run: npm install
-
       - run: node sanitize.js
 
       - name: Commit changes
