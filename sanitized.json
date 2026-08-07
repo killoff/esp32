@@ -1,0 +1,1107 @@
+{
+  "status": "OK",
+  "code": 200,
+  "messages": "common.SUCCESSFUL_REQUEST",
+  "meta": {
+    "count": 121,
+    "totalCount": 121,
+    "limit": 0,
+    "offset": 0,
+    "page": 1,
+    "totalPages": 1,
+    "totalPriceUah": null,
+    "totalPriceUsd": null,
+    "totalSize": null
+  },
+  "data": [
+    {
+      "number": "оф20",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 25285,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "1"
+    },
+    {
+      "number": "оф21",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 25286,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "1"
+    },
+    {
+      "number": "оф22",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 25287,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "1"
+    },
+    {
+      "number": "оф23",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 25288,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "2"
+    },
+    {
+      "number": "оф24",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 25289,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "2"
+    },
+    {
+      "number": "оф25",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 25290,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "2"
+    },
+    {
+      "number": "370",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28402,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "3"
+    },
+    {
+      "number": "371",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28403,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "3"
+    },
+    {
+      "number": "372",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28404,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "3"
+    },
+    {
+      "number": "373",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28405,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "3"
+    },
+    {
+      "number": "374",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28406,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "3"
+    },
+    {
+      "number": "375",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28407,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "4"
+    },
+    {
+      "number": "376",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28408,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "4"
+    },
+    {
+      "number": "377",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28409,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "4"
+    },
+    {
+      "number": "378",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28410,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "4"
+    },
+    {
+      "number": "379",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28411,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "4"
+    },
+    {
+      "number": "380",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28412,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "5"
+    },
+    {
+      "number": "381",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28413,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "5"
+    },
+    {
+      "number": "382",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28414,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "5"
+    },
+    {
+      "number": "383",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28415,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "5"
+    },
+    {
+      "number": "384",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28416,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "5"
+    },
+    {
+      "number": "385",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28417,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "6"
+    },
+    {
+      "number": "386",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28418,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "6"
+    },
+    {
+      "number": "387",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28419,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "6"
+    },
+    {
+      "number": "388",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28420,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "6"
+    },
+    {
+      "number": "389",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28421,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "6"
+    },
+    {
+      "number": "390",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28422,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "7"
+    },
+    {
+      "number": "391",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28423,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "7"
+    },
+    {
+      "number": "392",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28424,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "7"
+    },
+    {
+      "number": "393",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28425,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "7"
+    },
+    {
+      "number": "394",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28426,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "7"
+    },
+    {
+      "number": "395",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28427,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "8"
+    },
+    {
+      "number": "396",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28428,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "8"
+    },
+    {
+      "number": "397",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28429,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "8"
+    },
+    {
+      "number": "398",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28430,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "8"
+    },
+    {
+      "number": "399",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28431,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "8"
+    },
+    {
+      "number": "400",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28432,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "9"
+    },
+    {
+      "number": "401",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28433,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "9"
+    },
+    {
+      "number": "402",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28434,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "9"
+    },
+    {
+      "number": "403",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28435,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "9"
+    },
+    {
+      "number": "404",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28436,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "9"
+    },
+    {
+      "number": "405",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28437,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "10"
+    },
+    {
+      "number": "406",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28438,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "10"
+    },
+    {
+      "number": "407",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28439,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "10"
+    },
+    {
+      "number": "408",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28440,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "10"
+    },
+    {
+      "number": "409",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28441,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "10"
+    },
+    {
+      "number": "410",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28442,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "11"
+    },
+    {
+      "number": "411",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28443,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "11"
+    },
+    {
+      "number": "412",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28444,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "11"
+    },
+    {
+      "number": "413",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28445,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "11"
+    },
+    {
+      "number": "414",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28446,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "11"
+    },
+    {
+      "number": "415",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28447,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "12"
+    },
+    {
+      "number": "416",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28448,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "12"
+    },
+    {
+      "number": "417",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28449,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "12"
+    },
+    {
+      "number": "418",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28450,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "12"
+    },
+    {
+      "number": "419",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28451,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "12"
+    },
+    {
+      "number": "420",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28452,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "13"
+    },
+    {
+      "number": "421",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28453,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "13"
+    },
+    {
+      "number": "422",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28454,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "13"
+    },
+    {
+      "number": "423",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28455,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "13"
+    },
+    {
+      "number": "424",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28456,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "13"
+    },
+    {
+      "number": "425",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28457,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "14"
+    },
+    {
+      "number": "426",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28458,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "14"
+    },
+    {
+      "number": "427",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28459,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "14"
+    },
+    {
+      "number": "428",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28460,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "14"
+    },
+    {
+      "number": "429",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28461,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "14"
+    },
+    {
+      "number": "430",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28462,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "15"
+    },
+    {
+      "number": "431",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28463,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "15"
+    },
+    {
+      "number": "432",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28464,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "15"
+    },
+    {
+      "number": "433",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28465,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "15"
+    },
+    {
+      "number": "434",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28466,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "15"
+    },
+    {
+      "number": "435",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28467,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "16"
+    },
+    {
+      "number": "436",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28468,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "16"
+    },
+    {
+      "number": "437",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28469,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "16"
+    },
+    {
+      "number": "438",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28470,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "16"
+    },
+    {
+      "number": "439",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28471,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "16"
+    },
+    {
+      "number": "440",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28472,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "17"
+    },
+    {
+      "number": "441",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28473,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "17"
+    },
+    {
+      "number": "442",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28474,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "17"
+    },
+    {
+      "number": "443",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28475,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "17"
+    },
+    {
+      "number": "444",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28476,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "17"
+    },
+    {
+      "number": "445",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28477,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "18"
+    },
+    {
+      "number": "446",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28478,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "18"
+    },
+    {
+      "number": "447",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28479,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "18"
+    },
+    {
+      "number": "448",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28480,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "18"
+    },
+    {
+      "number": "449",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28481,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "18"
+    },
+    {
+      "number": "450",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28482,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "19"
+    },
+    {
+      "number": "451",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28483,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "19"
+    },
+    {
+      "number": "452",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28484,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "19"
+    },
+    {
+      "number": "453",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28485,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "19"
+    },
+    {
+      "number": "454",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28486,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "19"
+    },
+    {
+      "number": "455",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28487,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "20"
+    },
+    {
+      "number": "456",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28488,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "20"
+    },
+    {
+      "number": "457",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28489,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "20"
+    },
+    {
+      "number": "458",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28490,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "20"
+    },
+    {
+      "number": "459",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28491,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "20"
+    },
+    {
+      "number": "460",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28492,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "21"
+    },
+    {
+      "number": "461",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28493,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "21"
+    },
+    {
+      "number": "462",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28494,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "21"
+    },
+    {
+      "number": "463",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28495,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "21"
+    },
+    {
+      "number": "464",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28496,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "21"
+    },
+    {
+      "number": "465",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28497,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "22"
+    },
+    {
+      "number": "466",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28498,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "22"
+    },
+    {
+      "number": "467",
+      "system_status": 2,
+      "is_selling": true,
+      "id": 28499,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "22"
+    },
+    {
+      "number": "468",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28500,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "22"
+    },
+    {
+      "number": "469",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28501,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "22"
+    },
+    {
+      "number": "470",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28502,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "23"
+    },
+    {
+      "number": "471",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28503,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "23"
+    },
+    {
+      "number": "472",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28504,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "23"
+    },
+    {
+      "number": "473",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28505,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "23"
+    },
+    {
+      "number": "474",
+      "system_status": 2,
+      "is_selling": true,
+      "id": 28506,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "23"
+    },
+    {
+      "number": "475",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28507,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "24"
+    },
+    {
+      "number": "476",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28508,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "24"
+    },
+    {
+      "number": "477",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28509,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "24"
+    },
+    {
+      "number": "478",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28510,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "24"
+    },
+    {
+      "number": "479",
+      "system_status": 4,
+      "is_selling": true,
+      "id": 28511,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "24"
+    },
+    {
+      "number": "480",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28512,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "25"
+    },
+    {
+      "number": "481",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28513,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "25"
+    },
+    {
+      "number": "482",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28514,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "25"
+    },
+    {
+      "number": "483",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28515,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "25"
+    },
+    {
+      "number": "484",
+      "system_status": 1,
+      "is_selling": true,
+      "id": 28516,
+      "building": "Maxima 3",
+      "section": "3",
+      "floor": "25"
+    }
+  ]
+}
