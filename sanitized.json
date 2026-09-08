@@ -4336,7 +4336,7 @@
     },
     {
       "number": "456",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": true,
       "id": 28488,
       "building": "Maxima 3",
