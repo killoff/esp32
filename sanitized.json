@@ -1438,7 +1438,7 @@
     },
     {
       "number": "134",
-      "system_status": 2,
+      "system_status": 1,
       "is_selling": true,
       "id": 27996,
       "building": "Maxima 2",
@@ -3922,7 +3922,7 @@
     },
     {
       "number": "410",
-      "system_status": 2,
+      "system_status": 1,
       "is_selling": true,
       "id": 28442,
       "building": "Maxima 3",
@@ -4498,7 +4498,7 @@
     },
     {
       "number": "474",
-      "system_status": 2,
+      "system_status": 1,
       "is_selling": true,
       "id": 28506,
       "building": "Maxima 3",
