@@ -6568,7 +6568,7 @@
     },
     {
       "number": "1060",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34899,
       "building": "Maxima паркінг",
@@ -6595,7 +6595,7 @@
     },
     {
       "number": "1063",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34902,
       "building": "Maxima паркінг",
@@ -6604,7 +6604,7 @@
     },
     {
       "number": "1064",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34903,
       "building": "Maxima паркінг",
@@ -6640,7 +6640,7 @@
     },
     {
       "number": "1068",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34907,
       "building": "Maxima паркінг",
@@ -6649,7 +6649,7 @@
     },
     {
       "number": "1069",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34908,
       "building": "Maxima паркінг",
@@ -6694,7 +6694,7 @@
     },
     {
       "number": "1074",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34913,
       "building": "Maxima паркінг",
@@ -6703,7 +6703,7 @@
     },
     {
       "number": "1075",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34914,
       "building": "Maxima паркінг",
@@ -6712,7 +6712,7 @@
     },
     {
       "number": "1076",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34915,
       "building": "Maxima паркінг",
@@ -6784,7 +6784,7 @@
     },
     {
       "number": "1084",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34923,
       "building": "Maxima паркінг",
@@ -6811,7 +6811,7 @@
     },
     {
       "number": "1087",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34926,
       "building": "Maxima паркінг",
@@ -6820,7 +6820,7 @@
     },
     {
       "number": "1088",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34927,
       "building": "Maxima паркінг",
@@ -6829,7 +6829,7 @@
     },
     {
       "number": "1089",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34928,
       "building": "Maxima паркінг",
@@ -6964,7 +6964,7 @@
     },
     {
       "number": "1104",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34943,
       "building": "Maxima паркінг",
@@ -6973,7 +6973,7 @@
     },
     {
       "number": "1105",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34944,
       "building": "Maxima паркінг",
