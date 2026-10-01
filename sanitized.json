@@ -1195,7 +1195,7 @@
     },
     {
       "number": "оф17",
-      "system_status": 2,
+      "system_status": 1,
       "is_selling": true,
       "id": 25282,
       "building": "Maxima 2",
@@ -3112,7 +3112,7 @@
     },
     {
       "number": "320",
-      "system_status": 2,
+      "system_status": 1,
       "is_selling": false,
       "id": 28182,
       "building": "Maxima 2",
@@ -6496,7 +6496,7 @@
     },
     {
       "number": "1053",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34891,
       "building": "Maxima паркінг",
