@@ -3113,7 +3113,7 @@
     {
       "number": "320",
       "system_status": 1,
-      "is_selling": false,
+      "is_selling": true,
       "id": 28182,
       "building": "Maxima 2",
       "section": "2",
@@ -3310,7 +3310,7 @@
     },
     {
       "number": "342",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": true,
       "id": 28204,
       "building": "Maxima 2",
