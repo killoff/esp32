@@ -6208,7 +6208,7 @@
     },
     {
       "number": "1021",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34859,
       "building": "Maxima паркінг",
@@ -6235,7 +6235,7 @@
     },
     {
       "number": "1024",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": false,
       "id": 34862,
       "building": "Maxima паркінг",
