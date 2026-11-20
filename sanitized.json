@@ -4498,7 +4498,7 @@
     },
     {
       "number": "474",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": true,
       "id": 28506,
       "building": "Maxima 3",
@@ -5155,7 +5155,7 @@
     },
     {
       "number": "72-73",
-      "system_status": 1,
+      "system_status": 2,
       "is_selling": true,
       "id": 29116,
       "building": "Maxima паркінг",
